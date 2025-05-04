@@ -1,5 +1,6 @@
 <?php
     $name= "Aditya";
+    $jurusan = "Informatika";
 ?>
     <!DOCTYPE html>
     <html lang="en">
@@ -9,6 +10,7 @@
         <title>halaman awal</title>
     </head>
     <body>
-        <h1>Halo nama saya <?php echo $gitname ?></h1>
+        <h1>Halo nama saya <?php echo $name ?></h1>
+        <h1>Jurusan saya <?php echo $jurusan ?></h1>
     </body>
     </html>
