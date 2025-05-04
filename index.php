@@ -1,6 +1,7 @@
 <?php
     $name= "Aditya";
     $jurusan = "Informatika";
+    $nim = "H1D024107";
 ?>
     <!DOCTYPE html>
     <html lang="en">
@@ -12,5 +13,6 @@
     <body>
         <h1>Halo nama saya <?php echo $name ?></h1>
         <h1>Jurusan saya <?php echo $jurusan ?></h1>
+        <h1>Dengahn NIM<?php echo $nim ?></h1>
     </body>
     </html>
